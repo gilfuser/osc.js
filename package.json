@@ -37,7 +37,7 @@
     },
     "dependencies": {
         "long": "4.0.0",
-        "serialport": "github:serialport/node-serialport",
+        "serialport": "7.1.5",
         "slip": "1.0.2",
         "wolfy87-eventemitter": "5.2.5",
         "ws": "6.0.0"
